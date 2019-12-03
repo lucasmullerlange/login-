@@ -27,9 +27,10 @@ void main ()
                                                           else if ( imc < 39.9 ) 
                                                                     cout << " obesidade grau 2 " ; 
                                                                    else  
-                                                                      cout << " você está com obesidade morbida" ; 
-  
-    
+                                                                      cout << " você está com obesidade morbida" ;   
+   
+   
+   
    return 0; 
    system (" pause") ; 
 }
