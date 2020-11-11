@@ -5,7 +5,7 @@
 float ,imc, peso, altura, idade ; 
 char usuario; 
 count <- 0 
-// teste 
+
 void main () 
 {
  imc <- peso / ((altura /100 ) * (altura /100 )) 
